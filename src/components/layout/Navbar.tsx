@@ -13,7 +13,6 @@ const navLinks = [
 
   // 👇 Engagement
   { name: 'Events', path: '/events' },
-  { name: 'Hackathons', path: '/hackathons' },
 
   // 👇 Proof / Work
   { name: 'Projects', path: '/projects' },
