@@ -22,7 +22,7 @@ import {
 } from 'lucide-react';
 import Magnetic from '@/components/ui/Magnetic';
 
-const departments = ['All', 'Leadership', 'Engineering', 'Design', 'Marketing'];
+const departments = ['All', 'Leadership', 'Web', 'Design', 'Social Media' , 'PR & Outreach'];
 
 export default function Team() {
   const [activeDept, setActiveDept] = useState('All');

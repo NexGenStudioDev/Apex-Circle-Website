@@ -4,215 +4,219 @@
     "name": "Soumodweep Das",
     "role": "Founder",
     "department": "Leadership",
+    "handle": "🧭 Strategy & Vision",
+    "emoji": "🧭",
+    "color": "#3E2C1D",
     "image": "https://calcuttahacks.xyz/assets/Soumodweep-ZJFwPoII.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/soumodweep-das/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/soumodweep-das/", "twitter": "#", "github": "#" }
   },
   {
     "id": "2",
     "name": "Souvik Ghosh",
     "role": "Co-Founder",
     "department": "Leadership",
+    "handle": "🛠 Execution & Logistics",
+    "emoji": "🛠",
+    "color": "#3E2C1D",
     "image": "https://calcuttahacks.xyz/assets/Souvik-DHigIqNt.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/souvikghosh19/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/souvikghosh19/", "twitter": "#", "github": "#" }
   },
   {
     "id": "3",
     "name": "Pritam Das",
     "role": "Co-Founder",
     "department": "Leadership",
+    "handle": "💡 Innovation & Systems",
+    "emoji": "💡",
+    "color": "#3E2C1D",
     "image": "https://calcuttahacks.xyz/assets/pritham-jf-VHqra.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/pritam-das-739743289/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/pritam-das-739743289/", "twitter": "#", "github": "#" }
   },
   {
     "id": "4",
     "name": "Yuvraj Prasad",
     "role": "Co-Founder",
     "department": "Leadership",
+    "handle": "🎯 Aesthetics & Experience",
+    "emoji": "🎯",
+    "color": "#3E2C1D",
     "image": "https://calcuttahacks.xyz/assets/yuvraj-CyJ9jIEw.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/yuvrajprasad/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/yuvrajprasad/", "twitter": "#", "github": "#" }
   },
   {
     "id": "5",
     "name": "Abhishek Banerjee",
     "role": "Chief Advisor",
     "department": "Leadership",
+    "handle": "🤝 Strategic Alliances & Guidance",
+    "emoji": "🤝",
+    "color": "#3E2C1D",
     "image": "https://calcuttahacks.xyz/assets/AbhishekBan-l3Snf55a.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/avishek-mukherjee-1011a2235/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/avishek-mukherjee-1011a2235/", "twitter": "#", "github": "#" }
   },
   {
     "id": "6",
     "name": "Subhasish Chanda",
     "role": "Co-Organizer",
     "department": "Leadership",
+    "handle": "🤝 Strategic Alliances & Guidance",
+    "emoji": "🤝",
+    "color": "#3E2C1D",
     "image": "Subhasish",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/subhasish-chanda/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/subhasish-chanda/", "twitter": "#", "github": "#" }
   },
   {
     "id": "7",
     "name": "Piush Bose",
     "role": "Co-Organizer",
     "department": "Leadership",
+    "handle": "🤝 Strategic Alliances & Guidance",
+    "emoji": "🤝",
+    "color": "#3E2C1D",
     "image": "Piush",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/bosepiush/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/bosepiush/", "twitter": "#", "github": "#" }
   },
   {
     "id": "8",
     "name": "Ritabrata Nayek",
     "role": "Co-Organizer",
     "department": "Leadership",
+    "handle": "🤝 Strategic Alliances & Guidance",
+    "emoji": "🤝",
+    "color": "#3E2C1D",
     "image": "Ritabrata",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/ritabrata-nayek-7263572a4/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/ritabrata-nayek-7263572a4/", "twitter": "#", "github": "#" }
   },
   {
     "id": "9",
     "name": "Somnath Mukherjee",
     "role": "Web Lead",
     "department": "Web",
-    "image": "Somnath",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/somnath-mukherjee-8b629b288/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "handle": "Development & Infrastructure",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "https://calcuttahacks.xyz/assets/Somnath-BFnST6cr.webp",
+    "socials": { "linkedin": "https://www.linkedin.com/in/somnath-mukherjee-8b629b288/", "twitter": "#", "github": "#" }
   },
   {
     "id": "10",
     "name": "Naila Farooque",
     "role": "Web Co-Lead",
     "department": "Web",
+    "handle": "Frontend Integration & Support",
+    "emoji": "",
+    "color": "#3E2C1D",
     "image": "https://calcuttahacks.xyz/assets/Naila-DyAHvO2X.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/nailafarooque/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/nailafarooque/", "twitter": "#", "github": "#" }
   },
   {
     "id": "11",
-    "name": "Agnij Dutta",
-    "role": "PR & Outreach Lead",
-    "department": "PR & Outreach",
-    "image": "Agnij",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/agnij-dutta/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "name": "Shantanu Mahato",
+    "role": "Design Lead",
+    "department": "Design",
+    "handle": "UI/UX Designer",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "https://calcuttahacks.xyz/assets/shantanu-CglmwUlV.webp",
+    "socials": { "linkedin": "https://www.linkedin.com/in/shantanu-mahato-396462289?", "twitter": "#", "github": "#" }
   },
   {
     "id": "12",
-    "name": "Vivek Yadav",
-    "role": "PR & Outreach Co-Lead",
+    "name": "Agnij Dutta",
+    "role": "PR & Outreach Lead",
     "department": "PR & Outreach",
-    "image": "VivekYadav",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/yadav-vivek123",
-      "twitter": "#",
-      "github": "#"
-    }
+    "handle": "Public Relations & Partnerships",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "https://calcuttahacks.xyz/assets/Agnij-zofo0K06.webp",
+    "socials": { "linkedin": "https://www.linkedin.com/in/agnij-dutta/", "twitter": "#", "github": "#" }
   },
   {
     "id": "13",
-    "name": "Shreyashi Debnath",
-    "role": "Management Lead",
-    "department": "Management",
-    "image": "Shreyanshi",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/shreyashi-debnath-aa73942b4/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "name": "Vivek Yadav",
+    "role": "PR & Outreach Co-Lead",
+    "department": "PR & Outreach",
+    "handle": "Communication & Coordination",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "VivekYadav",
+    "socials": { "linkedin": "https://www.linkedin.com/in/yadav-vivek123", "twitter": "#", "github": "#" }
   },
   {
     "id": "14",
-    "name": "Rouson Das",
+    "name": "Shreyashi Debnath",
     "role": "Management Lead",
     "department": "Management",
-    "image": "https://calcuttahacks.xyz/assets/Rouson-lxqxgbtz.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/rouson-das-563b52284/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "handle": "Operations & Oversight",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "Shreyanshi",
+    "socials": { "linkedin": "https://www.linkedin.com/in/shreyashi-debnath-aa73942b4/", "twitter": "#", "github": "#" }
   },
   {
     "id": "15",
-    "name": "Shuvrajit Majhi",
-    "role": "Social Media Lead",
-    "department": "Social Media",
-    "image": "https://calcuttahacks.xyz/assets/Shuvrajit-B565mt-h.webp",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/shuvrajit-majhi-7a337b2b8/",
-      "twitter": "#",
-      "github": "#"
-    }
+    "name": "Rouson Das",
+    "role": "Management Lead",
+    "department": "Management",
+    "handle": "Planning & Coordination",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "https://calcuttahacks.xyz/assets/Rouson-lxqxgbtz.webp",
+    "socials": { "linkedin": "https://www.linkedin.com/in/rouson-das-563b52284/", "twitter": "#", "github": "#" }
   },
   {
     "id": "16",
-    "name": "Pushkar Das",
-    "role": "Social Media Co-Lead",
+    "name": "Shuvrajit Majhi",
+    "role": "Social Media Lead",
     "department": "Social Media",
-    "image": "Pushkar",
-    "socials": {
-      "linkedin": "",
-      "twitter": "#",
-      "github": "#"
-    }
+    "handle": "Branding & Digital Growth",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "https://calcuttahacks.xyz/assets/Shuvrajit-B565mt-h.webp",
+    "socials": { "linkedin": "https://www.linkedin.com/in/shuvrajit-majhi-7a337b2b8/", "twitter": "#", "github": "#" }
   },
   {
     "id": "17",
-    "name": "Abhishek Kumar",
-    "role": "Web Associate",
-    "department": "Web",
-    "image": "https://avatars.githubusercontent.com/u/122656682?v=4",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/abhishek-nexgen-dev",
-      "twitter": "#",
-      "github": "#"
-    }
+    "name": "Pushkar Das",
+    "role": "Social Media Co-Lead",
+    "department": "Social Media",
+    "handle": "Content & Engagement",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "Pushkar",
+    "socials": { "linkedin": "", "twitter": "#", "github": "#" }
   },
   {
     "id": "18",
+    "name": "Abhishek Kumar",
+    "role": "Web Associate",
+    "department": "Web",
+    "handle": "Technical Implementation",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "https://avatars.githubusercontent.com/u/122656682?v=4",
+    "socials": { "linkedin": "https://www.linkedin.com/in/abhishek-nexgen-dev", "twitter": "#", "github": "#" }
+  },
+  {
+    "id": "19",
     "name": "Anjali Tomar",
     "role": "Web Associate",
     "department": "Web",
+    "handle": "Backend & Content Management",
+    "emoji": "",
+    "color": "#3E2C1D",
     "image": "https://avatars.githubusercontent.com/u/160884550?v=4",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/in/anjali-tomar713",
-      "twitter": "#",
-      "github": "#"
-    }
+    "socials": { "linkedin": "https://www.linkedin.com/in/anjali-tomar713", "twitter": "#", "github": "#" }
+  },
+  {
+    "id": "20",
+    "name": "Piyush Goenka",
+    "role": "Web Team Member",
+    "department": "Web",
+    "handle": "Website development",
+    "emoji": "",
+    "color": "#3E2C1D",
+    "image": "PiyushGoenka",
+    "socials": { "linkedin": "https://www.linkedin.com/in/piyushgoenka2005/", "twitter": "#", "github": "#" }
   }
 ]
